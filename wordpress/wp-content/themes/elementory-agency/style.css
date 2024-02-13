@@ -1,0 +1,257 @@
+/**
+Theme Name: Elementory Agency
+Theme URI: https://ascendoor.com/themes/elementory-agency/
+Author: Ascendoor
+Author URI: https://ascendoor.com/
+Version: 1.0.0
+Requires PHP: 7.4
+Tested up to: 6.3
+Requires at least: 5.0
+Template: elementory
+Text Domain: elementory-agency
+Description: Elementory Agency ( child of Elementory ) is a versatile WordPress theme created for corporate businesses, with a specific focus on startups, digital companies, and corporate entities. It seamlessly integrates with Elementor, offering adaptability and responsiveness to cater to users with varying levels of expertise. Whether you possess extensive experience or are new to website development, this theme is well-suited for your needs. If you're looking to quickly establish an online presence for a Business, Consulting, Corporate, Portfolio, Creative, Agency, Digital Agency, Cryptocurrency, Insurance, Event, IT Solution, Photography, Lawyer, App Landing, Software Landing, Architecture, Startup, SEO Marketing, or Personal website, Elementory Agency stands as the ideal choice. Check the demo at: https://demos.ascendoor.com/elementory-agency/
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Tags: custom-background, custom-logo, custom-colors, custom-menu, featured-images, threaded-comments, translation-ready, theme-options, footer-widgets, full-width-template, left-sidebar, right-sidebar, news, blog
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned.
+
+Elementory Agency is based on Underscores https://underscores.me/, (C) 2012-2020 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+
+Normalizing styles have been helped along thanks to the fine work of
+Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
+*/
+
+:root{
+    --primary-color: #FF4F4F;
+}
+
+/* header style 3 */
+header.site-header {
+    box-shadow: 0 1px 10px -8px #000;
+}
+header.site-header.header-style-3 .bottom-header-part {
+    padding: 20px 0;
+    background-color: var(--white);
+}
+@media (max-width: 480px) {
+    header.site-header.header-style-3 .bottom-header-part {
+        position: relative;
+    }
+}
+header.site-header.header-style-3 .bottom-header-part .bottom-header-wrapper {
+    gap: 20px;
+    display: flex;
+    min-height: 55px;
+    align-items: center;
+    justify-content: space-between;
+}
+header.site-header.header-style-3 .bottom-header-part .bottom-header-wrapper .site-branding {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+header.site-header.header-style-3 .bottom-header-part .bottom-header-wrapper .site-branding .site-logo {
+    flex-shrink: 0;
+}
+header.site-header.header-style-3 .bottom-header-part .bottom-header-wrapper .site-branding .site-title {
+    font-size: var(--font-size-lg);
+    font-weight: 700;
+    line-height: 1.2;
+    margin: 0;
+}
+header.site-header.header-style-3 .bottom-header-part .bottom-header-wrapper .site-branding .site-title a {
+    line-height: inherit;
+    text-decoration: none;
+    color: var(--header-text-color);
+}
+header.site-header.header-style-3 .bottom-header-part .bottom-header-wrapper .site-branding .site-description {
+    margin: 0;
+    color: var(--clr-foreground);
+}
+@media (max-width: 480px) {
+    header.site-header.header-style-3 .bottom-header-part .bottom-header-wrapper .site-branding .site-description {
+        font-size: 0.8rem;
+        margin-top: 0;
+    }
+}
+header.site-header.header-style-3 .bottom-header-part .bottom-header-wrapper .navigation-part {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+header.site-header.header-style-3 .bottom-header-part .bottom-header-wrapper .navigation-part .header-search {
+    width: 30px;
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+@media (max-width: 480px) {
+    header.site-header.header-style-3 .bottom-header-part .bottom-header-wrapper .navigation-part .header-search {
+        position: unset;
+    }
+}
+header.site-header.header-style-3 .bottom-header-part .bottom-header-wrapper .navigation-part .header-search .header-search-wrap .header-search-icon {
+    font-size: 14px;
+    color: var(--clr-foreground);
+    font-weight: 700;
+    text-align: center;
+    outline: 0;
+    height: 30px;
+    width: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 50%;
+}
+header.site-header.header-style-3 .bottom-header-part .bottom-header-wrapper .navigation-part .header-search .header-search-wrap .header-search-icon:focus-within {
+    outline: 1px dashed var(--primary-color);
+}
+header.site-header.header-style-3 .bottom-header-part .bottom-header-wrapper .navigation-part .header-search .header-search-wrap .header-search-form {
+    position: absolute;
+    right: 0;
+    opacity: 0;
+    visibility: hidden;
+    top: 100%;
+    width: 325px;
+    padding: 14px;
+    z-index: 99;
+    box-shadow: 0 1px 5px -3px #000;
+    background: var(--clr-sub-background);
+}
+@media (max-width: 480px) {
+    header.site-header.header-style-3 .bottom-header-part .bottom-header-wrapper .navigation-part .header-search .header-search-wrap .header-search-form {
+        width: 100%;
+    }
+}
+header.site-header.header-style-3 .bottom-header-part .bottom-header-wrapper .navigation-part .header-search .header-search-wrap .header-search-form .search-form {
+    display: flex;
+}
+header.site-header.header-style-3 .bottom-header-part .bottom-header-wrapper .navigation-part .header-search .header-search-wrap .header-search-form .search-form label {
+    width: 75%;
+}
+header.site-header.header-style-3 .bottom-header-part .bottom-header-wrapper .navigation-part .header-search .header-search-wrap .header-search-form .search-form label input {
+    width: 100%;
+    border-radius: 0px;
+}
+header.site-header.header-style-3 .bottom-header-part .bottom-header-wrapper .navigation-part .header-search .header-search-wrap .header-search-form .search-form input.search-submit {
+    border: 1px solid var(--theme-color);
+    border-radius: 0px;
+    padding: 0px;
+    font-size: 13px;
+    width: 25%;
+    margin: 0;
+}
+header.site-header.header-style-3 .bottom-header-part .bottom-header-wrapper .navigation-part .header-search .header-search-wrap.show .header-search-form {
+    margin: 0;
+    opacity: 1;
+    visibility: visible;
+}
+
+/* header style 3 */
+
+/* footer */
+/* footer CSS start
+--------------------------------------------- */
+.site-footer .site-footer-top .footer-widgets-wrapper.three-column-1 .footer-widget-single {
+	width: 33.33%;
+}
+
+@media (max-width: 600px) {
+	.site-footer .site-footer-top .footer-widgets-wrapper.three-column-1 .footer-widget-single {
+		width: 100%;
+	}
+}
+
+.site-footer .site-footer-top .footer-widgets-wrapper.three-column-2 .footer-widget-single:nth-child(2), .site-footer .site-footer-top .footer-widgets-wrapper.three-column-2 .footer-widget-single:nth-child(1) {
+	width: 25%;
+}
+
+@media (max-width: 600px) {
+	.site-footer .site-footer-top .footer-widgets-wrapper.three-column-2 .footer-widget-single:nth-child(2), .site-footer .site-footer-top .footer-widgets-wrapper.three-column-2 .footer-widget-single:nth-child(1) {
+		width: 100%;
+	}
+}
+
+.site-footer .site-footer-top .footer-widgets-wrapper.three-column-2 .footer-widget-single:nth-child(3) {
+	width: 50%;
+}
+
+@media (max-width: 600px) {
+	.site-footer .site-footer-top .footer-widgets-wrapper.three-column-2 .footer-widget-single:nth-child(3) {
+		width: 100%;
+	}
+}
+
+.site-footer .site-footer-top .footer-widgets-wrapper.three-column-3 .footer-widget-single:nth-child(1) {
+	width: 50%;
+}
+
+@media (max-width: 600px) {
+	.site-footer .site-footer-top .footer-widgets-wrapper.three-column-3 .footer-widget-single:nth-child(1) {
+		width: 100%;
+	}
+}
+
+.site-footer .site-footer-top .footer-widgets-wrapper.three-column-3 .footer-widget-single:nth-child(2), .site-footer .site-footer-top .footer-widgets-wrapper.three-column-3 .footer-widget-single:nth-child(3) {
+	width: 25%;
+}
+
+@media (max-width: 600px) {
+	.site-footer .site-footer-top .footer-widgets-wrapper.three-column-3 .footer-widget-single:nth-child(2), .site-footer .site-footer-top .footer-widgets-wrapper.three-column-3 .footer-widget-single:nth-child(3) {
+		width: 100%;
+	}
+}
+
+.site-footer .site-footer-top .footer-widgets-wrapper.two-column-1 .footer-widget-single:nth-child(1) {
+	width: 30%;
+}
+
+@media (max-width: 600px) {
+	.site-footer .site-footer-top .footer-widgets-wrapper.two-column-1 .footer-widget-single:nth-child(1) {
+		width: 100%;
+	}
+}
+
+.site-footer .site-footer-top .footer-widgets-wrapper.two-column-1 .footer-widget-single:nth-child(2) {
+	width: 70%;
+}
+
+@media (max-width: 600px) {
+	.site-footer .site-footer-top .footer-widgets-wrapper.two-column-1 .footer-widget-single:nth-child(2) {
+		width: 100%;
+	}
+}
+
+.site-footer .site-footer-top .footer-widgets-wrapper.two-column-2 .footer-widget-single:nth-child(1) {
+	width: 70%;
+}
+
+@media (max-width: 600px) {
+	.site-footer .site-footer-top .footer-widgets-wrapper.two-column-2 .footer-widget-single:nth-child(1) {
+		width: 100%;
+	}
+}
+
+.site-footer .site-footer-top .footer-widgets-wrapper.two-column-2 .footer-widget-single:nth-child(2) {
+	width: 30%;
+}
+
+@media (max-width: 600px) {
+	.site-footer .site-footer-top .footer-widgets-wrapper.two-column-2 .footer-widget-single:nth-child(2) {
+		width: 100%;
+	}
+}
+/* footer */
+
+.footer-widget-single .magazine-trending-carousel-section-wrapper .mag-post-single.list-design{
+    min-height: 100px;
+}
+
+a.magazine-scroll-to-top.show{
+    display: flex !important;
+}

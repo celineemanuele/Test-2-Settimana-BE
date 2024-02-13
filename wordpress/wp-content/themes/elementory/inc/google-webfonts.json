@@ -1,0 +1,143 @@
+[
+    {
+        "family": "Open Sans",
+        "variants": [
+            "300",
+            "300italic",
+            "regular",
+            "italic",
+            "600",
+            "600italic",
+            "700",
+            "700italic",
+            "800",
+            "800italic"
+        ],
+        "subsets": [
+            "cyrillic",
+            "cyrillic-ext",
+            "greek",
+            "greek-ext",
+            "latin",
+            "latin-ext",
+            "vietnamese"
+        ],
+        "version": "v18",
+        "lastModified": "2020-09-15",
+        "files": {
+            "300": "http://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN_r8-VeJoCqeDjg.ttf",
+            "300italic": "http://fonts.gstatic.com/s/opensans/v18/memnYaGs126MiZpBA-UFUKWyV-hsKKKTjrPW.ttf",
+            "regular": "http://fonts.gstatic.com/s/opensans/v18/mem8YaGs126MiZpBA-U1UpcaXcl0Aw.ttf",
+            "italic": "http://fonts.gstatic.com/s/opensans/v18/mem6YaGs126MiZpBA-UFUJ0ef8xkA76a.ttf",
+            "600": "http://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UNirk-VeJoCqeDjg.ttf",
+            "600italic": "http://fonts.gstatic.com/s/opensans/v18/memnYaGs126MiZpBA-UFUKXGUehsKKKTjrPW.ttf",
+            "700": "http://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN7rg-VeJoCqeDjg.ttf",
+            "700italic": "http://fonts.gstatic.com/s/opensans/v18/memnYaGs126MiZpBA-UFUKWiUOhsKKKTjrPW.ttf",
+            "800": "http://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN8rs-VeJoCqeDjg.ttf",
+            "800italic": "http://fonts.gstatic.com/s/opensans/v18/memnYaGs126MiZpBA-UFUKW-U-hsKKKTjrPW.ttf"
+        },
+        "category": "sans-serif",
+        "kind": "webfonts#webfont"
+    },
+    {
+        "family": "Lato",
+        "variants": [
+            "100",
+            "100italic",
+            "300",
+            "300italic",
+            "regular",
+            "italic",
+            "700",
+            "700italic",
+            "900",
+            "900italic"
+        ],
+        "subsets": [
+            "latin",
+            "latin-ext"
+        ],
+        "version": "v17",
+        "lastModified": "2020-09-15",
+        "files": {
+            "100": "http://fonts.gstatic.com/s/lato/v17/S6u8w4BMUTPHh30wWyWrFCbw7A.ttf",
+            "100italic": "http://fonts.gstatic.com/s/lato/v17/S6u-w4BMUTPHjxsIPy-vNiPg7MU0.ttf",
+            "300": "http://fonts.gstatic.com/s/lato/v17/S6u9w4BMUTPHh7USew-FGC_p9dw.ttf",
+            "300italic": "http://fonts.gstatic.com/s/lato/v17/S6u_w4BMUTPHjxsI9w2PHA3s5dwt7w.ttf",
+            "regular": "http://fonts.gstatic.com/s/lato/v17/S6uyw4BMUTPHvxk6XweuBCY.ttf",
+            "italic": "http://fonts.gstatic.com/s/lato/v17/S6u8w4BMUTPHjxswWyWrFCbw7A.ttf",
+            "700": "http://fonts.gstatic.com/s/lato/v17/S6u9w4BMUTPHh6UVew-FGC_p9dw.ttf",
+            "700italic": "http://fonts.gstatic.com/s/lato/v17/S6u_w4BMUTPHjxsI5wqPHA3s5dwt7w.ttf",
+            "900": "http://fonts.gstatic.com/s/lato/v17/S6u9w4BMUTPHh50Xew-FGC_p9dw.ttf",
+            "900italic": "http://fonts.gstatic.com/s/lato/v17/S6u_w4BMUTPHjxsI3wiPHA3s5dwt7w.ttf"
+        },
+        "category": "sans-serif",
+        "kind": "webfonts#webfont"
+    },
+    {
+        "family": "Lustria",
+        "variants": [
+            "regular"
+        ],
+        "subsets": [
+            "latin"
+        ],
+        "version": "v8",
+        "lastModified": "2020-07-23",
+        "files": {
+            "regular": "http://fonts.gstatic.com/s/lustria/v8/9oRONYodvDEyjuhOrCg5MtPyAcg.ttf"
+        },
+        "category": "serif",
+        "kind": "webfonts#webfont"
+    },
+    {
+        "family": "Oswald",
+        "variants": [
+            "200",
+            "300",
+            "regular",
+            "500",
+            "600",
+            "700"
+        ],
+        "subsets": [
+            "cyrillic",
+            "cyrillic-ext",
+            "latin",
+            "latin-ext",
+            "vietnamese"
+        ],
+        "version": "v36",
+        "lastModified": "2021-01-30",
+        "files": {
+            "200": "http://fonts.gstatic.com/s/oswald/v36/TK3_WkUHHAIjg75cFRf3bXL8LICs13FvgUFoZAaRliE.ttf",
+            "300": "http://fonts.gstatic.com/s/oswald/v36/TK3_WkUHHAIjg75cFRf3bXL8LICs169vgUFoZAaRliE.ttf",
+            "regular": "http://fonts.gstatic.com/s/oswald/v36/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvgUFoZAaRliE.ttf",
+            "500": "http://fonts.gstatic.com/s/oswald/v36/TK3_WkUHHAIjg75cFRf3bXL8LICs18NvgUFoZAaRliE.ttf",
+            "600": "http://fonts.gstatic.com/s/oswald/v36/TK3_WkUHHAIjg75cFRf3bXL8LICs1y9ogUFoZAaRliE.ttf",
+            "700": "http://fonts.gstatic.com/s/oswald/v36/TK3_WkUHHAIjg75cFRf3bXL8LICs1xZogUFoZAaRliE.ttf"
+        },
+        "category": "sans-serif",
+        "kind": "webfonts#webfont"
+    },
+    {
+        "family": "Yeseva One",
+        "variants": [
+            "regular"
+        ],
+        "subsets": [
+            "cyrillic",
+            "cyrillic-ext",
+            "latin",
+            "latin-ext",
+            "vietnamese"
+        ],
+        "version": "v15",
+        "lastModified": "2020-09-02",
+        "files": {
+            "regular": "http://fonts.gstatic.com/s/yesevaone/v15/OpNJno4ck8vc-xYpwWWxpipfWhXD00c.ttf"
+        },
+        "category": "display",
+        "kind": "webfonts#webfont"
+    }
+]

@@ -1,0 +1,707 @@
+# Translation of Themes - Blockscape in Italian
+# This file is distributed under the same license as the Themes - Blockscape package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-02-13 02:28:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-beta.2\n"
+"Language: it\n"
+"Project-Id-Version: Themes - Blockscape\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Blockscape is a next-generation and modern Full Site Editing WordPress theme to build a visually appealing and fast website. Using the new Theme Editor feature, you can leverage the complete control over your website elements to fully personalize your site. Packed with tons of pre-built block patterns, you can seamlessly build a site in less time. Blockscape is perfect for building blogs, businesses, startups, e-commerce shops, law firms or any other creative agency website. It is mobile-friendly, SEO-optimized and speed optimized to load fast. Blockscape is also WooCommerce-compatible, RTL & translation ready. Learn more at https://rarathemes.com/wordpress-themes/blockscape/."
+msgstr "Blockscape è un tema WordPress moderno di ultima generazione Full Site Editing, progettato per creare un sito web visivamente accattivante e veloce. Utilizzando la nuova funzionalità Theme Editor, puoi avere il controllo completo sugli elementi del tuo sito per personalizzarlo integralmente. Con tantissimi pattern di blocchi pre-costruiti, puoi realizzare un sito facilmente e in meno tempo. Blockscape è perfetto per la creazione di qualsiasi blog e sito per aziende, StartUp, negozi eCommerce, studi legali o agenzie creative. È ottimizzato per dispositivi mobili, SEO e velocità di caricamento. Blockscape è anche compatibile con WooCommerce, pronto per RTL e per la traduzione. Approfondisci su https://rarathemes.com/wordpress-themes/blockscape/."
+
+#. Theme Name of the theme
+#: inc/custom-functions.php:245
+#, gp-priority: high
+msgid "Blockscape"
+msgstr "Blockscape"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Single Header Meta"
+msgstr "Header Meta singolo"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Page Header"
+msgstr "Header della pagina"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Footer"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Header"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "404"
+msgstr "404"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr "Vuoto"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Primary Blue"
+msgstr "Blu Primario"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Transparent"
+msgstr "Trasparente"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Inherit"
+msgstr "Eredita"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Current Color"
+msgstr "Colore attuale"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Subtitle Background"
+msgstr "Sfondo del sottotitolo"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Section Background"
+msgstr "Sfondo della sezione"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Principale"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Heading"
+msgstr "Titolo"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr "Base"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Figtree"
+msgstr "Figtree"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Font"
+msgstr "Font di sistema"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "4XL"
+msgstr "4XL"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "3XL"
+msgstr "3XL"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "2XL"
+msgstr "2XL"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XL"
+msgstr "XL"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "L"
+msgstr "L"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "ML"
+msgstr "ML"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "M"
+msgstr "M"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "SM"
+msgstr "SM"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "S"
+msgstr "S"
+
+#: patterns/team.php
+msgctxt "Pattern title"
+msgid "Team"
+msgstr "Team"
+
+#: patterns/team-lists.php
+msgctxt "Pattern title"
+msgid "Team (4 columns)"
+msgstr "Team (4 colonne)"
+
+#: patterns/services-list.php
+msgctxt "Pattern title"
+msgid "Services Lists"
+msgstr "Elenchi di servizi"
+
+#: patterns/service.php
+msgctxt "Pattern title"
+msgid "Services"
+msgstr "Servizi"
+
+#: patterns/error.php
+msgctxt "Pattern title"
+msgid "404 Page"
+msgstr "Pagina 404"
+
+#: patterns/cta.php
+msgctxt "Pattern title"
+msgid "Call To Action"
+msgstr "Invito all'azione"
+
+#: patterns/cta-two.php
+msgctxt "Pattern title"
+msgid "Call To Action Two"
+msgstr "Invito all'azione due"
+
+#: patterns/cta-three.php
+msgctxt "Pattern title"
+msgid "Call To Action Three"
+msgstr "Invito all'azione tre"
+
+#: patterns/cta-four.php
+msgctxt "Pattern title"
+msgid "Call To Action Four"
+msgstr "Invito all'azione quattro"
+
+#: patterns/counter.php
+msgctxt "Pattern title"
+msgid "Counter"
+msgstr "Contatore"
+
+#: patterns/contact-info.php
+msgctxt "Pattern title"
+msgid "Contact Info"
+msgstr "Informazioni di contatto"
+
+#: patterns/contact-details.php
+msgctxt "Pattern title"
+msgid "Contact Details"
+msgstr "Dettagli di contatto"
+
+#: patterns/client-logo.php
+msgctxt "Pattern title"
+msgid "Client Logo"
+msgstr "Logo del cliente"
+
+#: patterns/blog.php
+msgctxt "Pattern title"
+msgid "Blog"
+msgstr "Blog"
+
+#: patterns/banner.php
+msgctxt "Pattern title"
+msgid "Banner Default"
+msgstr "Banner predefinito"
+
+#: patterns/about.php
+msgctxt "Pattern title"
+msgid "About"
+msgstr "Chi siamo"
+
+#: patterns/about-us.php
+msgctxt "Pattern title"
+msgid "About Us"
+msgstr "Chi siamo"
+
+#: patterns/team-lists.php:235
+msgid "Samantha Walters"
+msgstr "Samantha Walters"
+
+#: patterns/team-lists.php:217
+msgid "Steffen Bech"
+msgstr "Steffen Bech"
+
+#: patterns/team-lists.php:199
+msgid "Amanda Watson"
+msgstr "Amanda Watson"
+
+#: patterns/team-lists.php:181
+msgid "Sara Powell"
+msgstr "Sara Powell"
+
+#: patterns/team-lists.php:153
+msgid "Reecha Smith"
+msgstr "Reecha Smith"
+
+#: patterns/team-lists.php:135
+msgid "Patrik Levin"
+msgstr "Patrik Levin"
+
+#: patterns/team-lists.php:117
+msgid "Dylan Geift"
+msgstr "Dylan Geift"
+
+#: patterns/team-lists.php:99
+msgid "Deb Geift"
+msgstr "Deb Geift"
+
+#: patterns/team-lists.php:73 patterns/team.php:73
+msgid "Makenna Geidt"
+msgstr "Makenna Geidt"
+
+#: patterns/team-lists.php:59 patterns/team-lists.php:139
+#: patterns/team-lists.php:221 patterns/team.php:59
+msgid "PHD, Finance"
+msgstr "Dottorato in Finanza"
+
+#: patterns/team-lists.php:55 patterns/team.php:55
+msgid "Ahmad Levin"
+msgstr "Ahmad Levin"
+
+#: patterns/team-lists.php:41 patterns/team-lists.php:121
+#: patterns/team-lists.php:203 patterns/team.php:41
+msgid "PHD, Chemistry"
+msgstr "Dottorato in Chimica"
+
+#: patterns/team-lists.php:37 patterns/team.php:37
+msgid "Kierra Philips"
+msgstr "Kierra Philips"
+
+#: patterns/team-lists.php:23 patterns/team-lists.php:77
+#: patterns/team-lists.php:103 patterns/team-lists.php:157
+#: patterns/team-lists.php:185 patterns/team-lists.php:239 patterns/team.php:23
+#: patterns/team.php:77
+msgid "PHD, Accountancy"
+msgstr "Dottorato in Contabilità"
+
+#: patterns/team-lists.php:19 patterns/team.php:19
+msgid "Martin Franci"
+msgstr "Martin Franci"
+
+#: patterns/services-list.php:122
+msgid "Woocommerce"
+msgstr "Woocommerce"
+
+#: patterns/services-list.php:102
+msgid "Absolute Positioning"
+msgstr "Posizionamento assoluto"
+
+#: patterns/services-list.php:82
+msgid "Google Fonts"
+msgstr "Font di Google"
+
+#: patterns/service.php:86 patterns/services-list.php:58
+msgid "SVG Icons"
+msgstr "Icone SVG"
+
+#: patterns/service.php:66 patterns/services-list.php:38
+msgid "Responsive Settings"
+msgstr "Impostazioni Responsive"
+
+#: patterns/service.php:54 patterns/service.php:74 patterns/service.php:94
+#: patterns/services-list.php:26 patterns/services-list.php:46
+#: patterns/services-list.php:66 patterns/services-list.php:90
+#: patterns/services-list.php:110 patterns/services-list.php:130
+msgid "Learn More"
+msgstr "Approfondisci"
+
+#: patterns/service.php:50 patterns/service.php:70 patterns/service.php:90
+#: patterns/services-list.php:22 patterns/services-list.php:42
+#: patterns/services-list.php:62 patterns/services-list.php:86
+#: patterns/services-list.php:106 patterns/services-list.php:126
+msgid "Consulting planning for modern businesses involves providing advice and guidance to companies on how..."
+msgstr "La pianificazione della consulenza per le imprese moderne consiste nel fornire consigli e indicazioni alle aziende su come..."
+
+#: patterns/service.php:46 patterns/services-list.php:18
+msgid "Full Site Editing"
+msgstr "Full Site Editing"
+
+#: patterns/service.php:25
+msgid "We have been trusted advisors to the world foremost organizations since 1926, and we continue to uphold the principles set by our founder and CEO, the successful entrepreneur Nabin Tuladhar."
+msgstr "Dal 1926 siamo consulenti di fiducia delle più importanti organizzazioni mondiali e continuiamo a sostenere i principi stabiliti dal nostro fondatore e CEO, l'imprenditore di successo Nabin Tuladhar."
+
+#: patterns/service.php:19
+msgid "We are willing to take bold action to achieve the extraordinary."
+msgstr "Siamo disposti a compiere azioni audaci per raggiungere lo straordinario."
+
+#: patterns/error.php:45
+msgid "Go Back to Homepage"
+msgstr "Torna alla homepage"
+
+#: patterns/error.php:36
+msgid "The page you are looking for may have been moved, deleted, or possibly never existed. Go back to home and explore again."
+msgstr "La pagina che stai cercando potrebbe essere stata spostata, cancellata o non è mai esistita. Torna alla homepage ed esplora di nuovo."
+
+#: patterns/error.php:21
+msgid "Page Not Found"
+msgstr "La pagina non è stata trovata"
+
+#: patterns/cta.php:35
+msgid "Let's get Started"
+msgstr "Iniziamo"
+
+#: patterns/cta.php:28
+msgid "Call to action is a marketing term for any device designed to prompt an immediate response."
+msgstr "L'invito all'azione è un termine di marketing che indica qualsiasi dispositivo progettato per sollecitare una risposta immediata."
+
+#: patterns/cta.php:20
+msgid "Get Free Tech Consultation With Us."
+msgstr "Ottieni una consulenza tecnologica gratuita con noi."
+
+#: patterns/cta-two.php:23
+msgid "Join over 100+ companies using our unique go-to-market approach to a sustainable competitive advantage."
+msgstr "Unisciti a oltre 100 aziende che utilizzano il nostro approccio unico al mercato per ottenere un vantaggio competitivo sostenibile."
+
+#: patterns/cta-two.php:19
+msgid "Get Upto 40% discounts on basic business counselling."
+msgstr "Ottieni sconti fino al 40% sulla consulenza di base per le attività aziendali."
+
+#: patterns/cta-three.php:39
+msgid "Tax/Audit Consulting"
+msgstr "Consulenza di revisione fiscale"
+
+#: patterns/cta-three.php:35
+msgid "Guaranteed Investment"
+msgstr "Investimento garantito"
+
+#: patterns/cta-three.php:31
+msgid "Complete Business Analysis"
+msgstr "Analisi aziendale completa"
+
+#: patterns/cta-three.php:27
+msgid "Dedicated Pool of Resources"
+msgstr "Gruppo di risorse dedicato"
+
+#: patterns/cta-three.php:18
+msgid "A team that is dedicated to ensuring customer success."
+msgstr "Un team dedicato a garantire il successo del cliente."
+
+#: patterns/cta-four.php:26
+msgid "Book an Appointment"
+msgstr "Prenota un appuntamento"
+
+#: patterns/cta-four.php:19
+msgid "If you need help with modern workplace, cloud infrastructure, or IT service, you can schedule a free initial consultation."
+msgstr "Se hai bisogno di aiuto per un posto di lavoro moderno, un'infrastruttura cloud o un servizio IT, puoi prenotare una prima consulenza gratuita."
+
+#: patterns/cta-four.php:14
+msgid "Make an appointment for a consultation online now."
+msgstr "Fissa un appuntamento per una consulenza online ora."
+
+#: patterns/counter.php:59
+msgid "Clients"
+msgstr "Clienti"
+
+#: patterns/counter.php:55
+msgid "200"
+msgstr "200"
+
+#: patterns/counter.php:47
+msgid "Projects Complete"
+msgstr "Progetti completi"
+
+#: patterns/counter.php:43
+msgid "150"
+msgstr "150"
+
+#: patterns/counter.php:35
+msgid "Success Rate"
+msgstr "Tasso di successo"
+
+#: patterns/counter.php:31
+msgid "100"
+msgstr "100"
+
+#: patterns/counter.php:23
+msgid "Countries Covered"
+msgstr "Paesi raggiunti"
+
+#: patterns/counter.php:19
+msgid "90"
+msgstr "90"
+
+#: patterns/contact-info.php:20
+msgid "email@companyname.com"
+msgstr "email@nomeazienda.com"
+
+#: patterns/contact-info.php:11
+msgid "Get In Touch"
+msgstr "Contattaci"
+
+#: patterns/contact-details.php:59
+msgid "Support Inquiries"
+msgstr "Richieste di supporto"
+
+#: patterns/contact-details.php:48 patterns/contact-details.php:92
+#: patterns/contact-info.php:30
+msgid "+01 2345 6789"
+msgstr "+01 2345 6789"
+
+#: patterns/contact-details.php:28 patterns/contact-details.php:72
+msgid "123 New Street, NY, USA"
+msgstr "123 New Street, NY, USA"
+
+#: patterns/contact-details.php:19 patterns/contact-details.php:63
+msgid "If you have any enquires, email us using the form and we will get back to you asap."
+msgstr "Per qualsiasi richiesta, inviaci un'email utilizzando il modulo e ti risponderemo al più presto."
+
+#: patterns/contact-details.php:15
+msgid "General Inquiries"
+msgstr "Domande generali"
+
+#: patterns/blog.php:76
+msgid "Read All Blog"
+msgstr "Leggi tutto il blog"
+
+#: patterns/blog.php:38
+msgid "Effective communication and collaboration within the team can help harness these qualities and drive the team towards its goals."
+msgstr "Una comunicazione efficace e la collaborazione all'interno del team possono aiutare a sfruttare queste qualità e guidare il team verso i suoi obiettivi."
+
+#: patterns/blog.php:29
+msgid "Latest Article &amp; Blog"
+msgstr "Ultimi articoli e blog"
+
+#: patterns/banner.php:32 patterns/cta-two.php:30
+msgid "Let's Get Started"
+msgstr "Iniziamo"
+
+#: patterns/banner.php:27
+msgid "We design and build beautiful brands, websites and products for your business that stand out the crowd."
+msgstr "Progettiamo e realizziamo marchi, siti web e prodotti accattivanti per la tua azienda, che si distinguono dalla folla."
+
+#: patterns/banner.php:23
+msgid "Developing practice to achieve higher performance."
+msgstr "Sviluppare pratiche per raggiungere prestazioni più elevate."
+
+#: patterns/banner.php:16
+msgid "Your Consulting Partner"
+msgstr "Il tuo partner di consulenza"
+
+#: patterns/about.php:50
+msgid "Chief Executive Officer"
+msgstr "Amministratore delegato"
+
+#: patterns/about.php:46
+msgid "Adam Levine"
+msgstr "Adam Levine"
+
+#: patterns/about.php:36
+msgid "Together let's keep going."
+msgstr "Insieme andiamo avanti."
+
+#: patterns/about.php:32
+msgid "A chief executive officer (CEO), chief administrator, or just chief executive, is one of a number of corporates executives in charge of managing an organization especially an independent legal entity such as a company or nonprofit institution. CEOs find roles in a range of organizations, including public and private corporations."
+msgstr "Un amministratore delegato (CEO), direttore amministrativo o semplicemente direttore esecutivo, è uno dei numerosi dirigenti aziendali responsabili della gestione di un'organizzazione, specialmente un'entità giuridica indipendente come un'azienda o un'istituzione non profit. I CEO ricoprono ruoli in una varietà di organizzazioni, comprese società pubbliche e private."
+
+#: patterns/about.php:28
+msgid "Message From CEO"
+msgstr "Messaggio dal CEO"
+
+#: patterns/about.php:22
+msgid "CEO Message"
+msgstr "Messaggio del CEO"
+
+#: patterns/about-us.php:46
+msgid "Know More About Us"
+msgstr "Scopri di più su di noi"
+
+#: patterns/about-us.php:37 patterns/cta-three.php:22
+msgid "Consulting and strategic planning for modern businesses involves providing advice and guidance to companies."
+msgstr "La consulenza e la pianificazione strategica per le imprese moderne comportano la fornitura di consigli e indicazioni alle aziende."
+
+#: patterns/about-us.php:33
+msgid "We have been trusted advisors to the world's foremost organizations since 1926, and we continue to uphold the principles set by our founder and CEO"
+msgstr "Siamo stati consulenti fidati delle organizzazioni più importanti del mondo dal 1926, e continuiamo a rispettare i principi stabiliti dal nostro fondatore e CEO."
+
+#: patterns/about-us.php:29
+msgid "A combination of creative thinking and expertise"
+msgstr "Una combinazione di pensiero creativo e competenza"
+
+#: patterns/about-us.php:23
+msgid "Who We Are"
+msgstr "Chi Siamo"
+
+#: inc/custom-functions.php:289
+msgid "Blockscape Error"
+msgstr "Errore di Blockscape"
+
+#: inc/custom-functions.php:285
+msgid "Blockscape Contact"
+msgstr "Contatto Blockscape"
+
+#: inc/custom-functions.php:281
+msgid "Blockscape Blog"
+msgstr "Blog Blockscape"
+
+#: inc/custom-functions.php:277
+msgid "Blockscape Team"
+msgstr "Team Blockscape"
+
+#: inc/custom-functions.php:273
+msgid "Blockscape Counter"
+msgstr "Contatore di Blockscape"
+
+#: inc/custom-functions.php:269
+msgid "Blockscape CTA"
+msgstr "CTA Blockscape"
+
+#: inc/custom-functions.php:265
+msgid "Blockscape About"
+msgstr "Informazioni su Blockscape"
+
+#: inc/custom-functions.php:261
+msgid "Blockscape Services"
+msgstr "Servizi Blockscape"
+
+#: inc/custom-functions.php:257
+msgid "Blockscape Clients"
+msgstr "Clienti Blockscape"
+
+#: inc/custom-functions.php:253
+msgid "Blockscape Banner"
+msgstr "Banner Blockscape"
+
+#: inc/custom-functions.php:237
+msgid "Remove padding"
+msgstr "Rimuovi la spaziatura interna"
+
+#: inc/custom-functions.php:229
+msgid "Mob Gap-50px"
+msgstr "Margine mobile-50 pixel"
+
+#: inc/custom-functions.php:221
+msgid "Mob Gap-40px"
+msgstr "Margine mobile-40 pixel"
+
+#: inc/custom-functions.php:213
+msgid "Mob Gap-30px"
+msgstr "Margine mobile-30 pixel"
+
+#: inc/custom-functions.php:205
+msgid "Mob Gap-20px"
+msgstr "Margine mobile-20 pixel"
+
+#: inc/custom-functions.php:197
+msgid "With Background Color"
+msgstr "Con colore di sfondo"
+
+#: inc/custom-functions.php:189
+msgid "Square Shape"
+msgstr "Forma quadrata"
+
+#: inc/custom-functions.php:181
+msgid "Unstyled view"
+msgstr "Visualizzazione non formattata"
+
+#: inc/custom-functions.php:145
+msgid "Hide in Mobile"
+msgstr "Nascondi nei dispositivi mobili"
+
+#: inc/custom-functions.php:138 inc/custom-functions.php:159
+#: inc/custom-functions.php:173
+msgid "Mobile Justify Left"
+msgstr "Giustifica a sinistra dispositivi mobili"
+
+#: inc/custom-functions.php:131 inc/custom-functions.php:152
+#: inc/custom-functions.php:166
+msgid "Mobile Justify Right"
+msgstr "Giustifica a destra dispositivi mobili"
+
+#: inc/custom-functions.php:124
+msgid "Mob 3 Col"
+msgstr "Mob 3 Col"
+
+#: inc/custom-functions.php:116
+msgid "Mob 2 Col"
+msgstr "Mob 2 Col"
+
+#: inc/custom-functions.php:108
+msgid "Box Shadow Two"
+msgstr "Ombra box due"
+
+#: inc/custom-functions.php:94 inc/custom-functions.php:101
+msgid "Hover Animation"
+msgstr "Animazione al passaggio del mouse"
+
+#: inc/custom-functions.php:87
+msgid "Box Shadow One"
+msgstr "Ombra box uno"
+
+#: inc/custom-functions.php:79
+msgid "Services Background Hover"
+msgstr "Sfondo Servizi al passaggio del mouse"
+
+#: inc/custom-functions.php:72
+msgid "Show three lines"
+msgstr "Mostra tre righe"
+
+#: inc/custom-functions.php:65
+msgid "Show two lines"
+msgstr "Mostra due righe"
+
+#: inc/custom-functions.php:58
+msgid "Large Font"
+msgstr "Font grande"
+
+#: inc/custom-functions.php:51
+msgid "Small Font"
+msgstr "Font piccolo"
+
+#: inc/custom-functions.php:44
+msgid "Small Image"
+msgstr "Immagine piccola"
+
+#: inc/custom-functions.php:36
+msgid "Button Style Icon After"
+msgstr "Stile icona pulsante Dopo"
+
+#: inc/custom-functions.php:29
+msgid "Button Outline"
+msgstr "Contorno del pulsante"
+
+#: inc/custom-functions.php:22
+msgid "Button BG White"
+msgstr "Sfondo pulsante bianco"
+
+#: inc/custom-functions.php:15
+msgid "Button BG Primary"
+msgstr "Sfondo pulsante principale"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://rarathemes.com/"
+msgstr "https://rarathemes.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "RaraTheme"
+msgstr "RaraTheme"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://rarathemes.com/wordpress-themes/blockscape/"
+msgstr "https://rarathemes.com/wordpress-themes/blockscape/"
